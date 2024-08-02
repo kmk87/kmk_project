@@ -7,7 +7,7 @@
 		<div class="menu">
 			<ul>
 				<li>
-					<a href="#">로그인</a>
+					<a href="/board/login">로그인</a>
 				</li>
 				<li>
 					<a href="#">회원가입</a>
