@@ -31,7 +31,7 @@
 	</section>
 	<script>
 		function loginForm(){
-			let form = dpcument.login_form;
+			let form = document.login_form;
 			if(form.user_id.value == ''){
 				alert('아이디를 입력하세요.');
 				form.user_id.focus();
